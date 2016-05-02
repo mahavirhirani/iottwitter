@@ -1,3 +1,4 @@
+#Twitter receiver running in beagle bone
 #Receiver.py
 from twython import TwythonStreamer
 class IoTStreamReader(TwythonStreamer):
