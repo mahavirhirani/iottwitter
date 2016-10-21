@@ -3,4 +3,4 @@ Steps to Share internet with beagle bone from windows laptop:
 2) Now goto run type ncpa.cpl, it will open Network Sharing center then right click on the beagle bone and click on sharing tab and check the option to allow sharing internet 
 3) Now select Networking tab and then select TCP/IPv4 option
 4) Select "Obtain IP automatically"
-5) Restart the puty session again and add "nameserver 127.0.0.1" "nameserver 8.8.8.8" to /etc/resolv.conf
+5) Restart the puty session again and add "nameserver 127.0.0.1" "nameserver 8.8.8.8" to /etc/resolv.conf.
