@@ -6,7 +6,7 @@ def on_success(self, data):
     print "Received Tweet from Sensor:"
     print data
 def on_error(self, status_code, data):
-    printstatus_code
+    print status_code
     self.disconnect()
     
 USER_KEY="User key for twitter app"
